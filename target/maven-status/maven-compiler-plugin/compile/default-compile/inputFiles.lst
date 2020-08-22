@@ -1,0 +1,10 @@
+C:\programming\projects\java\microservices\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\brewery\model\BeerInventoryDto.java
+C:\programming\projects\java\microservices\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\repositories\BeerInventoryRepository.java
+C:\programming\projects\java\microservices\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\controllers\BeerInventoryController.java
+C:\programming\projects\java\microservices\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\brewery\model\BeerOrderLineDto.java
+C:\programming\projects\java\microservices\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\mappers\DateMapper.java
+C:\programming\projects\java\microservices\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\domain\BeerInventory.java
+C:\programming\projects\java\microservices\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\mappers\BeerInventoryMapper.java
+C:\programming\projects\java\microservices\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\BeerInventoryApplication.java
+C:\programming\projects\java\microservices\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\domain\BaseEntity.java
+C:\programming\projects\java\microservices\mssc-beer-inventory-service\mssc-beer-inventory-service\src\main\java\guru\sfg\brewery\model\BeerOrderDto.java
