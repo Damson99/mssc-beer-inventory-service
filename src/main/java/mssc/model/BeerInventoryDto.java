@@ -1,4 +1,4 @@
-package guru.sfg.brewery.model;
+package mssc.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -8,9 +8,6 @@ import lombok.NoArgsConstructor;
 import java.time.OffsetDateTime;
 import java.util.UUID;
 
-/**
- * Created by jt on 2019-05-31.
- */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

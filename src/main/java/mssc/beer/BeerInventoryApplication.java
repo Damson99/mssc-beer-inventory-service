@@ -1,4 +1,4 @@
-package guru.sfg.beer.inventory.service;
+package mssc.beer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
