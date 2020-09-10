@@ -1,4 +1,4 @@
-package mssc.beer.service;
+package mssc.beer.service.listener;
 
 import mssc.beer.config.JmsConfig;
 import mssc.model.event.NewInventoryEvent;

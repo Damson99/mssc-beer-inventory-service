@@ -1,4 +1,4 @@
-package mssc.model;
+package mssc.model.event;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;

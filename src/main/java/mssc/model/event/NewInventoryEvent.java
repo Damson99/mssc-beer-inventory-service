@@ -1,6 +1,5 @@
 package mssc.model.event;
 
-import mssc.model.BeerDto;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
