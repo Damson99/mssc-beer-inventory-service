@@ -28,6 +28,7 @@ public class AllocationResponseListener
         {
             Boolean allocationResult = allocationService.allocateOrder(allocateOrderRequest.getBeerOrderDto());
             builder.pendingInventory(!allocationResult);
+            builder.allocationError(false);
         }
         catch (Exception e)
         {
